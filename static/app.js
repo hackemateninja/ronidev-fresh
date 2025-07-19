@@ -1,4 +1,4 @@
-import posthog from "posthog-js";
+import posthog from "https://cdn.jsdelivr.net/npm/posthog-js@1.257.0/+esm";
 /*
  * Welcome to your app's main JavaScript file!
  *
