@@ -6,25 +6,25 @@ export default function App({ Component }: PageProps) {
       <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Ronin dev | PHP Symfony developer</title>
+        <title>Ronin dev | Elixir developer</title>
         <meta
           name="description"
-          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior PHP symfony developer"
+          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior Elixir developer"
         />
         <link rel="icon" href="images/favicon.png" />
 
         <meta
           name="keywords"
-          content="symfony, developer, senior, guatemala, prodigal, son, sulu, sylius, contao, sonata, adminbundle, UX-UI, full-stack, stimulus, turbo, hotwire, liveComponents, twig, Herman, Orlando, Morales, López, php freelancer"
+          content="symfony, developer, Elixir, vue, defold, wasp, liveview senior, guatemala, prodigal, son, sulu, sylius, contao, sonata, adminbundle, UX-UI, full-stack, stimulus, turbo, hotwire, liveComponents, twig, Herman, Orlando, Morales, López, php freelancer"
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.ronindev.ninja" />
         <meta name="author" content="Ronindev" />
 
-        <meta property="og:title" content="Ronin dev | PHP Symfony developer" />
+        <meta property="og:title" content="Ronin dev | Elixir developer" />
         <meta
           property="og:description"
-          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior PHP symfony developer"
+          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior Elixir developer"
         />
         <meta property="og:url" content="https://www.ronindev.ninja" />
         <meta property="og:type" content="website" />
@@ -34,7 +34,7 @@ export default function App({ Component }: PageProps) {
         />
         <meta
           property="og:site_name"
-          content="Ronin dev | PHP Symfony developer"
+          content="Ronin dev | Elixir developer"
         />
         <meta property="og:locale" content="en_EN" />
 
@@ -46,11 +46,11 @@ export default function App({ Component }: PageProps) {
         <meta name="twitter:creator" content="@Hackemateninja" />
         <meta
           name="twitter:title"
-          content="Ronin dev | PHP Symfony developer"
+          content="Ronin dev | Elixir developer"
         />
         <meta
           name="twitter:description"
-          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior PHP symfony developer"
+          content="Ronin Dev Personal portfolio | Herman Orlando Morales López Senior Elixir developer"
         />
         <meta
           name="twitter:image"
